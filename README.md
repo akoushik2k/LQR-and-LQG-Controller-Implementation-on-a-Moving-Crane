@@ -54,12 +54,12 @@ The project files include the following MATLAB Live Scripts:
 These scripts contain the implementations for the design and analysis of the controllers and observers.
 
 ## Authors
-- Koushik Alapati (120239489)
-- Sai Dinesh Gelam (120167140)
-- Raghu Dharahas Kotla (120378935)
+- Koushik Alapati (akoushik@terpmail.umd.edu)
+- Sai Dinesh Gelam (sgelam@terpmail.umd.edu)
+- Raghu Dharahas Kotla (raghu17@terpmail.umd.edu)
 
-  ## License
-  This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-  ## Acknowledgments
-  This project is part of the ENPM667: Control of Robotic Systems course.
+## Acknowledgments
+This project is part of the ENPM667: Control of Robotic Systems course.
