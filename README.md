@@ -56,7 +56,7 @@ These scripts contain the implementations for the design and analysis of the con
 ## Results
 # State Response Vs Time
 - LQR
-<div align=left>
+<div align=center>
 <table>
   <tr>
     <td><img src="https://github.com/akoushik2k/LQR-and-LQG-Controller-Implementation-on-a-Moving-Crane/blob/1bdb3de757f99bc5777ce891dacd002773267a31/Results/LQR.jpg" alt="LQR" width="400"/></a></td>
@@ -65,7 +65,7 @@ These scripts contain the implementations for the design and analysis of the con
 </div>
 
 - LQG
-<div align=left>
+<div align=center>
 <table>
   <tr>
     <td><img src="https://github.com/akoushik2k/LQR-and-LQG-Controller-Implementation-on-a-Moving-Crane/blob/1bdb3de757f99bc5777ce891dacd002773267a31/Results/LQG.jpg" alt="LQR" width="400"/></a></td>
