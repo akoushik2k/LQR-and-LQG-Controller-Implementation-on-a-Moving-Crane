@@ -1,5 +1,5 @@
 # LQR & LQG Design for Control of Robotic Systems
-This project aims to analyze and control a crane system that moves along a one-dimensional track. The system consists of a frictionless cart with mass 'M', actuated by an external force 'F', and two loads suspended from cables with masses m<sub>1</sub> and m<sub>2</sub>, and lengths l<sub>1</sub> and l<sub>2</sub>.
+This project aims to analyze and control a crane system that moves along a one-dimensional track. The system consists of a frictionless cart with mass 'M', actuated by an external force 'F', and two loads suspended from cables with masses 'm<sub>1</sub>' and 'm<sub>2</sub>', and lengths 'l<sub>1</sub>' and 'l<sub>2</sub>'.
 
 ## Table of Contents
 1. [Introduction](#introduction)
