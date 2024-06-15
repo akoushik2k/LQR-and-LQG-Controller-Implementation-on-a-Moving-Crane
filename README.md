@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Copy README</title>
-    <script>
-        function copyToClipboard() {
-            var copyText = document.getElementById("readme").innerText;
-            var tempTextarea = document.createElement("textarea");
-            tempTextarea.value = copyText;
-            document.body.appendChild(tempTextarea);
-            tempTextarea.select();
-            document.execCommand("copy");
-            document.body.removeChild(tempTextarea);
-            alert("README content copied to clipboard");
-        }
-    </script>
-</head>
-<body>
-    <button onclick="copyToClipboard()">Copy README</button>
-    <pre id="readme">
-        # LQR & LQG Design for Control of Robotic Systems
+# LQR & LQG Design for Control of Robotic Systems
 
         This project aims to analyze and control a crane system that moves along a one-dimensional track. The system consists of a frictionless cart with mass \( M \), actuated by an external force \( F \), and two loads suspended from cables with masses \( m_1 \) and \( m_2 \), and lengths \( l_1 \) and \( l_2 \).
 
@@ -84,6 +64,3 @@
 
         ## Acknowledgments
         This project is part of the ENPM667: Control of Robotic Systems course.
-    </pre>
-</body>
-</html>
