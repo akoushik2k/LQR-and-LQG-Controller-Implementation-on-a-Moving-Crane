@@ -1,6 +1,3 @@
-#Instructions to run the matlab code for the Project 2 ENPM 667
-
-#Group 34
 
 1. Unzip the folder Koushik_Raghu_Sai_Dinesh.zip
 2. For the question A, B and C run the LQR_Linear.mlx
